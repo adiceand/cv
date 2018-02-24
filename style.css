@@ -1,0 +1,125 @@
+
+
+
+header{
+	background-color: #9ED5D6;
+	height: 500px;
+	text-align: center;
+
+}
+img{
+	margin-top: 50px;
+	width: 100px;
+	height: 100px
+	}
+
+
+
+section{
+	text-align: center;
+	background-color: #A39F84;
+	height: 500px;
+	align-content: center;
+}
+
+
+#imagen1{
+	border-radius: 100px;
+	margin-top: 20px;
+
+}
+#logo{
+	width: 100px;
+	height: 100px
+	margin-top:100px;
+}
+
+
+ul{
+list-style: none;
+}
+
+li{
+	float: center;
+	color: black;
+	margin: 5px;
+	padding: 5px;
+}
+
+#home:hover { 
+	background-color: pink;
+}
+#Mywork:hover{
+	background-color: yellow;
+}
+#Resume:hover{
+	background-color: purple;
+	
+}
+
+#Contact:hover{
+	background-color: green;
+}
+
+p{
+	margin:20px;
+}
+
+h2{
+	margin-top: 50px;
+}
+#trabajo{
+background-color: white;
+height: 500px;
+
+}
+
+#Resumen {
+	height: 500px;
+	background-color: #DDB3CD;
+
+}
+table{
+	margin-top: 50px;
+	 width: 100%;
+	 border: 1px solid black;
+}
+
+th {
+    height: 50px;
+        border: 1px solid black;
+}
+
+table tr:hover {
+  background-color: #f026;
+}
+
+#redes{
+	background-color: #8A877;
+
+}
+
+#contacto{
+	background-color: #C3D5D6;
+
+}
+#fb{
+	margin-top: 30px;
+	font-size: 20px;
+}
+
+#fb:hover{
+	background-color:#C3D5D6;
+}
+
+form{
+	margin-top: 50px;
+	background-color: gray;
+	border-radius: 10px;
+	width: 300px;
+	height: 200px;
+	margin-left: 100px;
+
+
+}
+
